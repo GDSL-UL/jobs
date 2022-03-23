@@ -23,6 +23,7 @@ The Liverpool City Region (LCR) Combined Authority (CA) has a target to reach ne
 This project will develop a digital model of public transportation and its use across the LCR, integrating data from existing services alongside demographic and economic information. Within the context of potential future strategies and those that are already developed (e.g. Local Transport Plan, Transport for the North), this project will develop a simulation enabling evaluation of their impact on net zero carbon targets. The project will also explicitly evaluate how traditional transportation appraisal methods might be adapted to better reflect net zero carbon ambitions as an enabler for new transportation schemes to be funded and introduced.
 
 **A Digital Twin of Resilient Future Retail Centres for Post Pandemic Social and Economic Recovery**
+
 Partner: Liverpool City Region
 Project reference: LV63
 
@@ -31,6 +32,7 @@ Retail centres provide a hub for social and economic interactions, playing an im
 This project will develop a Digital Twin of retail centre form and function within Liverpool City Region, embedding a range of data about the dynamics of retail centre use and their characteristics. Working in partnership with Liverpool City Region Combined Authority and other retail stakeholder, models will be developed to test scenarios for enhancing recovery and ensuring greater future retail centre resilience.
 
 **Detecting Population and Built Environment Change from Space and their Impacts on Buried Utility Assets**
+
 Partner: MGIS
 Project reference: LV62
 
@@ -41,6 +43,7 @@ MGISS are based within Liverpool City Region and have a vision to be a global le
 The core of this project will involve the application of machine learning and AI (e.g. Classification / spectral mixture models) to satellite data to extract information on changes in human activity, and will additionally benefit from the close coupling of insight from MGISS, available asset owner data, environmental data and other ancillary sources such as planning application and approvals. Substantively this project will likely explore various observable changes such as infrastructure development (planned and in progress) and potential for identification of past, imminent, and future potential supply interruption impacts.
 
 **Understanding Population Dynamics for Health and Safety Risk Assessment**
+
 Partner: Health and Safety Executive
 Project reference: LV61
 
