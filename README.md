@@ -2,7 +2,7 @@
 
 ## Assistant Professor / Lectureship 
 
-- [Lecturer in Geographic Data Science](https://www.jobs.ac.uk/job/CPY320/lecturer-in-geographic-data-science-grade-8), with a focus on sustainability and climate change, particularly as they intersect with cities and human populations. Closing on **June 17th'22**.
+We do not currently have any positions available at the minute, but watch this space for new adverts in the near future!
 
 ## Research / Data Science
 
