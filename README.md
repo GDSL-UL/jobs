@@ -8,6 +8,7 @@ Continuing recent strategic investment and growth of the Department of Geography
 
 For more information and to apply; see the university recruitment site [here](https://my.corehr.com/pls/ulivrecruit/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=051952).
 
+**Closing date: 22-Dec-2022 23:30**
 
 ## Research / Data Science
 
