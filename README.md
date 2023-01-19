@@ -13,12 +13,25 @@ We do not currently have any research positions available, but watch this space 
 
 We are currently advertising for a number of PhD projects that start in October 2023:
 
+### Educational Pathways and the Cost-of-Living Crisis in the Liverpool City Region (LCR).
+Supervisors: Alex Singleton, Catherine Durose
 
+This is an [ADR UK](https://www.adruk.org/news-publications/news-blogs/adr-uk-grants-20-phd-studentship-opportunities-focused-on-quantitative-research-using-linked-administrative-data/) linked PhD within the North West Social Science DTP that sets out to develop new understanding of Liverpool City Region education pathways, labour market outcomes, income and earnings; helping to inform future commissioning and policy decisions. LCR trends towards a low pay and low skill economy, and  businesses in LCR are not as productive as they could be, with GVA per resident lower than elsewhere, and the consequent detrimental impact on income and earnings. 
+The project will utilise the Longitudinal Education Outcomes (LEO) and the Wage and Employment Dynamics Phase 1 (WEDP1) data to respond to the following questions:
 
+* Is there a link between LCR skills training and an increase in their wages?
+* When residents improve their income and earnings, how much of this is them securing more money in their existing role as opposed to securing more hours?
+* How many residents have multiple job roles and what are the typical income levels associated with each job?
+* How geographically heterogeneous are residents having multiple jobs and being below median income?
+* Are there differences in income increase for residents following different types of skills provision?
+
+Application deadline:
+
+Apply Here:
 
 ### Uncovering the relationship between commuting, mental health and income in the UK and its geographical underpinnings
 
-Supervisors: Carmen Cabrera-Arnau, Francisco Rowe, Dr M Green
+Supervisors: Carmen Cabrera-Arnau, Francisco Rowe, Mark Green
 
 The increasing availability of transport gives us an unprecedented degree of flexibility regarding the locations where we live and work. This is evidenced by the more than 24 million people who commute to work in England and Wales, which represents around 90% of the workforce. While our society recognises the importance of well-being in the workplace, there is a complex relationship between commuting and mental health which remains to be fully understood.
 
@@ -30,13 +43,13 @@ The aim of this project is to conduct a comprehensive study on the interplay bet
 
 Full details: https://www.findaphd.com/phds/project/uncovering-the-relationship-between-commuting-mental-health-and-income-in-the-uk-and-its-geographical-underpinnings/?p154246
 
-Application deadline: 28th February 2023
+Application deadline:
 
 Apply Here: https://tinyurl.com/mwn5952t
 
 ### Understanding the Digital Lives of Young People
 
-Supervisors: Simeon Yate, Alex Singleton
+Supervisors: Simeon Yates, Alex Singleton
 
 This PhD programme will utilise the NOMINET Digital Youth Index, alongside datasets held by the Consumer Data Research Centre (CDRC) and public data (e.g. Ofcom), to develop a rich description of the digital lives of young people in the UK.  At present work on digital technologies and young people tends to focus in two areas: safety and wellbeing online and role of digital in education. This project will take a much broader look at the social, economic, cultural and regional aspects and determinants of young people’s use of and experiences via digital media and systems.  The programme will include work to curate and link available data sets covering young peoples use of or experience of digital systems and media. The research will have a strong policy focus linking up with the policy and advocacy work of both NOMINET and the DMS Institute. The PhD programme will be run jointly by the CDRC and the Digital Media and Society Institute with support from NOMINET.  This will allow the Post-graduate Researcher to access both the data analytics expertise of the CDRC, Data Analytics & Society CDT and the DMS research programmes.  The DMS currently has projects covering Minimum Digital Living Standards, Data use in organisations, Disinformation online, Computational Social Science, and Digital Exclusion.  Training support will be provided by Data Analytics & Society CDT and the DMS Institute.
 
