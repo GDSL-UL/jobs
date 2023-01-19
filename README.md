@@ -13,7 +13,7 @@ We do not currently have any research positions available, but watch this space 
 
 We are currently advertising for a number of PhD projects that start in October 2023:
 
-### Educational Pathways and the Cost-of-Living Crisis in the Liverpool City Region (LCR).
+### Educational Pathways and the Cost-of-Living Crisis in the Liverpool City Region (LCR)
 Supervisors: Alex Singleton, Catherine Durose
 
 This is an [ADR UK](https://www.adruk.org/news-publications/news-blogs/adr-uk-grants-20-phd-studentship-opportunities-focused-on-quantitative-research-using-linked-administrative-data/) linked PhD within the North West Social Science DTP that sets out to develop new understanding of Liverpool City Region education pathways, labour market outcomes, income and earnings; helping to inform future commissioning and policy decisions. LCR trends towards a low pay and low skill economy, and  businesses in LCR are not as productive as they could be, with GVA per resident lower than elsewhere, and the consequent detrimental impact on income and earnings. 
@@ -29,7 +29,7 @@ Application deadline:
 
 Apply Here:
 
-### Uncovering the relationship between commuting, mental health and income in the UK and its geographical underpinnings
+### Uncovering the Relationship between Commuting, Mental Health and Income in the UK and its Geographical Underpinnings
 
 Supervisors: Carmen Cabrera-Arnau, Francisco Rowe, Mark Green
 
@@ -48,7 +48,7 @@ Application deadline:
 Apply Here: https://tinyurl.com/mwn5952t
 
 ### Understanding the Digital Lives of Young People
-
+Partners: Nominet
 Supervisors: Simeon Yates, Alex Singleton
 
 This PhD programme will utilise the NOMINET Digital Youth Index, alongside datasets held by the Consumer Data Research Centre (CDRC) and public data (e.g. Ofcom), to develop a rich description of the digital lives of young people in the UK.  At present work on digital technologies and young people tends to focus in two areas: safety and wellbeing online and role of digital in education. This project will take a much broader look at the social, economic, cultural and regional aspects and determinants of young people’s use of and experiences via digital media and systems.  The programme will include work to curate and link available data sets covering young peoples use of or experience of digital systems and media. The research will have a strong policy focus linking up with the policy and advocacy work of both NOMINET and the DMS Institute. The PhD programme will be run jointly by the CDRC and the Digital Media and Society Institute with support from NOMINET.  This will allow the Post-graduate Researcher to access both the data analytics expertise of the CDRC, Data Analytics & Society CDT and the DMS research programmes.  The DMS currently has projects covering Minimum Digital Living Standards, Data use in organisations, Disinformation online, Computational Social Science, and Digital Exclusion.  Training support will be provided by Data Analytics & Society CDT and the DMS Institute.
@@ -59,7 +59,7 @@ Application deadline: 28th February 2023
 
 Apply Here: https://datacdt.org/entry-criteria-applying/
 
-### Understanding social and spatial inequalities in common mental health disorders
+### Understanding Social and Spatial Inequalities in Common Mental Health Disorders
 Project Partners: Merseycare
 Supervisors: Mark Green, Carmen Cabrera-Arnau
 
