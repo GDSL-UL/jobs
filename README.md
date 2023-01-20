@@ -43,7 +43,7 @@ The aim of this project is to conduct a comprehensive study on the interplay bet
 
 Full details: https://www.findaphd.com/phds/project/uncovering-the-relationship-between-commuting-mental-health-and-income-in-the-uk-and-its-geographical-underpinnings/?p154246
 
-Application deadline: 28th February 2023
+Application deadline:  February 13, 2023
 
 Apply Here: https://tinyurl.com/mwn5952t
 
