@@ -53,6 +53,7 @@ Apply Here: [https://tinyurl.com/mwn5952t](https://tinyurl.com/mwn5952t)
 --------------------------------------------------------------------------------
 
 ### Understanding the Digital Lives of Young People
+
 **Partners: Nominet**
 **Supervisors: Simeon Yates, Alex Singleton**
 
@@ -67,6 +68,7 @@ Apply Here: [https://datacdt.org/entry-criteria-applying/](https://datacdt.org/e
 --------------------------------------------------------------------------------
 
 ### Understanding Social and Spatial Inequalities in Common Mental Health Disorders
+
 **Project Partners: Merseycare**
 **Supervisors: Mark Green, Carmen Cabrera-Arnau**
 
@@ -81,6 +83,7 @@ Apply Here: [https://datacdt.org/entry-criteria-applying/](https://datacdt.org/e
 --------------------------------------------------------------------------------
 
 ### Interventions in the Long Term Living Crisis: Intergenerational Patterns of Spatial Inequality
+
 **Project Partners: The Equality Trust**
 **Supervisors: Francisco Rowe**
 
@@ -95,6 +98,7 @@ Apply Here: [https://datacdt.org/entry-criteria-applying/](https://datacdt.org/e
 --------------------------------------------------------------------------------
 
 ### Pet Ownership and Health
+
 **Project Partners: Pets at Home**
 **Supervisors: Alex Singleton, Patrick Ballantyne, Alan Radford**
 
@@ -109,6 +113,7 @@ Apply Here: [https://datacdt.org/entry-criteria-applying/](https://datacdt.org/e
 --------------------------------------------------------------------------------
 
 ### The Geography of Charitable giving and Volunteering Consumption
+
 **Project Partners: Greater Manchester Mayor's Charity**
 **Supervisors: Elisabetta Pietrostefan**
 
