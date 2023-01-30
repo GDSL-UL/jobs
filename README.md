@@ -26,7 +26,9 @@ The project will utilise the Longitudinal Education Outcomes (LEO) and the Wage 
 
 Application deadline:
 
-<u>How to apply</u>: Please send a letter of application and CV to alex.singleton@liverpool.ac.uk; adding "ADRUK PhD" to the subject line of your email. Your letter of support should be no more than 1 page of A4 and detail: 1) why you are interested in this project 2) why you want to complete a PhD; 3) and how your experiences to date make you a suitable candidate. 
+How to apply: Please send a letter of application and CV to alex.singleton@liverpool.ac.uk; adding "ADRUK PhD" to the subject line of your email. Your letter of support should be no more than 1 page of A4 and detail: 1) why you are interested in this project 2) why you want to complete a PhD; 3) and how your experiences to date make you a suitable candidate. 
+
+<br/>
 
 ### Uncovering the Relationship between Commuting, Mental Health and Income in the UK and its Geographical Underpinnings
 
