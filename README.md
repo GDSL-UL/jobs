@@ -10,7 +10,7 @@ We do not currently have any research positions available, but watch this space 
 
 ## PhDs
 
-#### We are currently advertising for a number of PhD projects that start in **October 2023**: they are open to both **UK and non UK** applicants, although we can only be able to support a very limited number who are not from the UK. Please note that there are different deadlines and application routes.
+#### We are currently advertising for a number of PhD projects that start in **October 2023**: they are open to both **UK and non UK** applicants, although we can only  support a very limited number who are not from the UK. Please note that there are different deadlines and application routes.
 
 --------------------------------------------------------------------------------
 
