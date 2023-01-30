@@ -48,7 +48,7 @@ Application deadline:  February 13, 2023
 
 Apply Here: https://tinyurl.com/mwn5952t
 
-<br/>
+--------------------------------------------------------------------------------
 
 ### Understanding the Digital Lives of Young People
 Partners: Nominet
@@ -62,7 +62,7 @@ Application deadline: 28th February 2023
 
 Apply Here: https://datacdt.org/entry-criteria-applying/
 
-<br/>
+--------------------------------------------------------------------------------
 
 ### Understanding Social and Spatial Inequalities in Common Mental Health Disorders
 Project Partners: Merseycare
@@ -76,7 +76,7 @@ Application deadline: 28th February 2023
 
 Apply Here: https://datacdt.org/entry-criteria-applying/
 
-<br/>
+--------------------------------------------------------------------------------
 
 ### Interventions in the Long Term Living Crisis: Intergenerational Patterns of Spatial Inequality
 Project Partners: The Equality Trust
@@ -90,7 +90,7 @@ Application deadline: 28th February 2023
 
 Apply Here: https://datacdt.org/entry-criteria-applying/
 
-<br/>
+--------------------------------------------------------------------------------
 
 ### Pet Ownership and Health
 Project Partners: Pets at Home
@@ -104,7 +104,7 @@ Application deadline: 28th February 2023
 
 Apply Here: https://datacdt.org/entry-criteria-applying/
 
-<br/>
+--------------------------------------------------------------------------------
 
 ### The Geography of Charitable giving and Volunteering Consumption
 Project Partners: Greater Manchester Mayor's Charity
@@ -118,4 +118,4 @@ Application deadline: 28th February 2023
 
 Apply Here: https://datacdt.org/entry-criteria-applying/
  
-
+--------------------------------------------------------------------------------
