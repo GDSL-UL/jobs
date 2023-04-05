@@ -30,25 +30,6 @@ The project will utilise the Longitudinal Education Outcomes (LEO) and the Wage 
 
 How to apply: Please send a letter of application and CV to [alex.singleton@liverpool.ac.uk](mailto:alex.singleton@liverpool.ac.uk); adding "ADRUK PhD" to the subject line of your email. Your letter of support should be no more than 1 page of A4 and detail: 1) Why are you interested in this project? 2) Why do you want to complete a PhD?, and 3) What makes you a suitable candidate? Please also supply the names of two people who could provide a reference if you are shortlisted.
 
---------------------------------------------------------------------------------
-
-### Uncovering the Relationship between Commuting, Mental Health and Income in the UK and its Geographical Underpinnings
-
-**Supervisors: Carmen Cabrera-Arnau, Francisco Rowe, Mark Green**
-
-The increasing availability of transport gives us an unprecedented degree of flexibility regarding the locations where we live and work. This is evidenced by the more than 24 million people who commute to work in England and Wales, which represents around 90% of the workforce. While our society recognises the importance of well-being in the workplace, there is a complex relationship between commuting and mental health which remains to be fully understood.
-
-The aim of this project is to conduct a comprehensive study on the interplay between commuting, mental health and income in the UK. A special emphasis will be placed on understanding the geographical underpinnings of this relationship. The objectives are:
-
-(1) Examine the geography of commuting behaviours and mental health in the UK, as well as their relationship.
-(2) Assess the extent to which the relationship between commuting and mental health is conditioned by the income level of commuters.
-(3) Building upon (1) and (2), study the interplay between commuting, mental health and income in the UK, and the role of geography in shaping this interplay.
-
-Full details: [https://www.findaphd.com/phds/project/uncovering-the-relationship-between-commuting-mental-health-and-income-in-the-uk-and-its-geographical-underpinnings/?p154246](https://www.findaphd.com/phds/project/uncovering-the-relationship-between-commuting-mental-health-and-income-in-the-uk-and-its-geographical-underpinnings/?p154246)
-
-**Application deadline:  February 13, 2023**
-
-Apply Here: [https://tinyurl.com/mwn5952t](https://tinyurl.com/mwn5952t)
 
 --------------------------------------------------------------------------------
 
