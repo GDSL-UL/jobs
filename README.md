@@ -84,22 +84,6 @@ Apply Here: [https://datacdt.org/entry-criteria-applying/](https://datacdt.org/e
 
 --------------------------------------------------------------------------------
 
-### Interventions in the Long Term Living Crisis: Intergenerational Patterns of Spatial Inequality
-
-**Project Partners: The Equality Trust**
-
-**Supervisors: Francisco Rowe**
-
-Where you are born and live can have significant consequences for your future life chances. Across generations there are areas of England and Wales where the opportunities for better education, health or income have been persistently and stubbornly constrained across many years. The inequality between these areas and those areas of greatest opportunity are wide and growing, creating significant policy challenge for any progressive government. The Equality Trust was launched in 2009 and is a charity that is working to improve the quality of life in the UK by reducing such economic and social inequality. This project will integrate a range of data from the multiple census and the ONS Longitudinal study to trace changes in equality over time, relating these to the success or failure of multiple policy regimes, interventions and targeted initiatives. The project will explore both national but geographically disaggregate patterns alongside specific local or regional case studies.
-
-Full details: [https://datacdt.org/projects/patterns-of-spatial-inequality/](https://datacdt.org/projects/patterns-of-spatial-inequality/)
-
-**Application deadline: 28th February 2023**
-
-Apply Here: [https://datacdt.org/entry-criteria-applying/](https://datacdt.org/entry-criteria-applying/)
-
---------------------------------------------------------------------------------
-
 ### Pet Ownership and Health
 
 **Project Partners: Pets at Home**
