@@ -36,7 +36,7 @@ The project will utilise the Longitudinal Education Outcomes (LEO) and the Wage 
 * How geographically heterogeneous are residents having multiple jobs and being below median income?
 * Are there differences in income increase for residents following different types of skills provision?
 
-**Application deadline: 28th February 2023**
+**Application deadline: 20th April 2023 **
 
 How to apply: Please send a letter of application and CV to [alex.singleton@liverpool.ac.uk](mailto:alex.singleton@liverpool.ac.uk); adding "ADRUK PhD" to the subject line of your email. Your letter of support should be no more than 1 page of A4 and detail: 1) Why are you interested in this project? 2) Why do you want to complete a PhD?, and 3) What makes you a suitable candidate? Please also supply the names of two people who could provide a reference if you are shortlisted.
 
@@ -53,7 +53,7 @@ This PhD programme will utilise the NOMINET Digital Youth Index, alongside datas
 
 Full details: [https://datacdt.org/projects/understanding-the-digital-lives-of-young-people/](https://datacdt.org/projects/understanding-the-digital-lives-of-young-people/)
 
-**Application deadline: 28th February 2023**
+**Application deadline: 20th April 2023**
 
 Apply Here: [https://datacdt.org/entry-criteria-applying/](https://datacdt.org/entry-criteria-applying/)
 
@@ -69,7 +69,7 @@ The UK has some of Europe’s highest level of common mental health disorders (e
 
 Full details: [https://datacdt.org/projects/social-and-spatial-inequalities-in-common-mental-health-disorders/](https://datacdt.org/projects/social-and-spatial-inequalities-in-common-mental-health-disorders/)
 
-**Application deadline: 28th February 2023**
+**Application deadline: 20th April 2023**
 
 Apply Here: [https://datacdt.org/entry-criteria-applying/](https://datacdt.org/entry-criteria-applying/)
 
@@ -85,7 +85,7 @@ During the pandemic rates of pet ownership grew significantly, enlarging the tot
 
 Full details: [https://datacdt.org/projects/pet-ownership-and-health/](https://datacdt.org/projects/pet-ownership-and-health/)
 
-**Application deadline: 28th February 2023**
+**Application deadline: 20th April 2023**
 
 Apply Here: [https://datacdt.org/entry-criteria-applying/](https://datacdt.org/entry-criteria-applying/)
 
@@ -101,7 +101,7 @@ Rates of homelessness are acute across Manchester city region, with rates in Man
 
 Full details: [https://datacdt.org/projects/the-geography-of-charitable-giving-and-volunteering-consumption/](https://datacdt.org/projects/the-geography-of-charitable-giving-and-volunteering-consumption/)
 
-**Application deadline: 28th February 2023**
+**Application deadline: 20th April 2023**
 
 Apply Here: [https://datacdt.org/entry-criteria-applying/](https://datacdt.org/entry-criteria-applying/)
  
