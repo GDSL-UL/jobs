@@ -4,7 +4,7 @@
 
 ### Lecturer in Geographic Data Science (Human Geography) - Grade 8 
 
-**[Closes April 23rd'23]**
+**[Closes May 3rd'23]**
 
 Full job description and application [here](https://my.corehr.com/pls/ulivrecruit/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=057413).
 
@@ -63,7 +63,7 @@ This PhD programme will utilise the NOMINET Digital Youth Index, alongside datas
 
 Full details: [https://datacdt.org/projects/understanding-the-digital-lives-of-young-people/](https://datacdt.org/projects/understanding-the-digital-lives-of-young-people/)
 
-**Application deadline: 20th April 2023**
+**Application deadline: tbc**
 
 Apply Here: [https://datacdt.org/entry-criteria-applying/](https://datacdt.org/entry-criteria-applying/)
 
@@ -79,7 +79,7 @@ The UK has some of Europe’s highest level of common mental health disorders (e
 
 Full details: [https://datacdt.org/projects/social-and-spatial-inequalities-in-common-mental-health-disorders/](https://datacdt.org/projects/social-and-spatial-inequalities-in-common-mental-health-disorders/)
 
-**Application deadline: 20th April 2023**
+**Application deadline: tbc**
 
 Apply Here: [https://datacdt.org/entry-criteria-applying/](https://datacdt.org/entry-criteria-applying/)
 
@@ -95,7 +95,7 @@ During the pandemic rates of pet ownership grew significantly, enlarging the tot
 
 Full details: [https://datacdt.org/projects/pet-ownership-and-health/](https://datacdt.org/projects/pet-ownership-and-health/)
 
-**Application deadline: 20th April 2023**
+**Application deadline: tbc**
 
 Apply Here: [https://datacdt.org/entry-criteria-applying/](https://datacdt.org/entry-criteria-applying/)
 
@@ -111,7 +111,7 @@ Rates of homelessness are acute across Manchester city region, with rates in Man
 
 Full details: [https://datacdt.org/projects/the-geography-of-charitable-giving-and-volunteering-consumption/](https://datacdt.org/projects/the-geography-of-charitable-giving-and-volunteering-consumption/)
 
-**Application deadline: 20th April 2023**
+**Application deadline: tbc**
 
 Apply Here: [https://datacdt.org/entry-criteria-applying/](https://datacdt.org/entry-criteria-applying/)
  
