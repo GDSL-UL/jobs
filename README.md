@@ -1,33 +1,5 @@
 # Current Job Openings and PhD Opportunities@[`geodatascience`](https://www.liverpool.ac.uk/geographic-data-science/)
 
-## Assistant Professor / Lectureship 
-
-### Lecturer in Geographic Data Science (Human Geography) - Grade 8 
-
-**[Closes May 3rd'23]**
-
-Full job description and application [here](https://my.corehr.com/pls/ulivrecruit/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=057413).
-
-Continuing recent strategic investment and growth of the Department of Geography and Planning, we are recruiting a Lecturer in Geographic Data Science in the area of Human Geography - whose research complements current activity within the Geographic Data Science Lab (GDSL) research group https://www.liverpool.ac.uk/geographic-data-science  and links to other research groups across the School, and particularly Planning, Environmental Assessment and Management and the Power Space and Cultural Change research groups  https://www.liverpool.ac.uk/geography-and-planning/research/
- 
-We are especially interested in applicants with international research expertise in the application of geographic data science, and one or more of the following priority areas: population, health, urban analytics, human mobility, transport and spatial inequalities. We would also be particularly interested hearing from applicants with a background in machine learning / artificial intelligence (AI) and network science to social science and population questions.
- 
-The post has the potential to align strategically with the University's "Digital", "Starting well, Living well, Ageing well", "Personalised health", and "Climate Futures" research themes.
- 
-We particularly welcome applications from scholars who identify with groups who continue to be underrepresented and who face barriers to inclusion in higher education. We believe that a diverse and supportive environment, bringing different perspectives to our work and allowing people to blossom is the best platform for excellent teaching.
-
-### Lecturer in Geographic Information Systems (Human Geography) (Grade 7/8)
-
-**[Closes May 3rd'23]**
-
-Full job description and application [here](https://www.jobs.ac.uk/job/CZA294/lecturer-in-geographic-information-systems-human-geography-grade-7-8).
-
-You will have teaching and research expertise that complements current activity within the Geographic Data Science Lab (GDSL) research group (https://www.liverpool.ac.uk/geographic-data-science/) and links to other research groups across the School, and particularly Planning, Environmental Assessment and Management and the Power Space and Cultural Change research groups (https://www.liverpool.ac.uk/geography-and-planning/research/).  We are especially interested in applicants with a strong teaching track record in Geographic Information Systems and Quantitative Human Geography across one or more of the following areas of Geography: retail, population, urban analytics, spatial modelling, human mobility, transport, spatial inequality and geographic data science.
-
-Applicants with a background in machine learning / artificial intelligence (AI) in Human Geography are welcomed. We are one of the largest and longest established UK Geography and Planning departments, ranked 14th for Research Power (REF2021) with an international reputation for research excellence where 36% of our publications rated as world-leading (4\*) and our research environment ranked joint 8th of 56 comparator UK Departments (REF2021). The post has the potential to align strategically with the University’s Digital, ‘Starting well, Living well, Ageing well’, Personalised health, and Climate Futures research themes.
-
-We particularly welcome applications from scholars who identify with groups who continue to be underrepresented and who face barriers to inclusion in higher education. We believe that a diverse and supportive environment, bringing different perspectives to our work and allowing people to blossom is the best platform for excellent teaching.
-
 ## PhDs
 
 #### We are currently advertising for a number of PhD projects that start in **October 2023**: they are open to UK applicants only.
