@@ -6,38 +6,37 @@
 
 --------------------------------------------------------------------------------
 
-### Student Led projects: ### 
+## Student Led Projects: ## 
 
-More Information: https://datacdt.org/projects/student-led-projects/
+More Information: [https://datacdt.org/projects/student-led-projects/](https://datacdt.org/projects/student-led-projects/)
 
-Our Centre funds project that:
+Our Centre funds student led projects that:
 
 * Promote the creation and analysis of new longitudinal and streamed data resources for socio-economic investigations.
 Create new methods (e.g. scaling up existing methods for real time big data analytics; explore new approaches for estimating intersectional inequalities),
 * Investigate social processes (e.g. virtualisation of retailing; data-driven decision making and social behaviours; quantify the dynamics of ethnic and socio-economic segregation)
 * Facilitate interventions (e.g. create decision support tools for policy makers; resource targeting, network planning, social media apps for diet, travel, lifestyle planning).
  
-The projects must be social science-led and at least 50% within ESRC’s remit; but could be collaborative. The following papers give some specific examples of the types of collaborative projects that might be in scope:
+The projects must be social science-led and at least 50% within ESRC’s remit; but could be collaborative. 
 
-* Singleton, A., Arribas-Bel, D., Murray, J., & Fleischmann, M. (2022). Estimating generalized measures of local neighbourhood context from multispectral satellite images using a convolutional neural network. Computers, Environment and Urban Systems, 95, 101802. https://doi.org/10.1016/j.compenvurbsys.2022.101802
- 
-* Palmer, G., Green, M., Boyland, E., Vasconcelos, Y. S. R., Savani, R., & Singleton, A. (2021). A deep learning approach to identify unhealthy advertisements in street view images. Scientific Reports, 11(1). https://doi.org/10.1038/s41598-021-84572-4
- 
-* Comber, S., Arribas-Bel, D., Singleton, A., & Dolega, L. (2020). Using convolutional autoencoders to extract visual features of leisure and retail environments. Landscape and Urban Planning, 202, 103887. https://doi.org/10.1016/j.landurbplan.2020.103887
- 
-* Singleton, A., Alexiou, A., & Savani, R. (2020). Mapping the geodemographics of digital inequality in Great Britain: An integration of machine learning into small area estimation. Computers, Environment and Urban Systems, 82, 101486. https://doi.org/10.1016/j.compenvurbsys.2020.101486
- 
+The following papers give some specific examples of the types of collaborative projects that might be in scope:
 
-If you are a student with an interesting idea, then please drop me an email to discuss: alex.singleton@liverpool.ac.uk.
+* Singleton, A., Arribas-Bel, D., Murray, J., & Fleischmann, M. (2022). Estimating generalized measures of local neighbourhood context from multispectral satellite images using a convolutional neural network. Computers, Environment and Urban Systems, 95, 101802. [https://doi.org/10.1016/j.compenvurbsys.2022.101802](https://doi.org/10.1016/j.compenvurbsys.2022.101802)
+ 
+* Palmer, G., Green, M., Boyland, E., Vasconcelos, Y. S. R., Savani, R., & Singleton, A. (2021). A deep learning approach to identify unhealthy advertisements in street view images. Scientific Reports, 11(1). [https://doi.org/10.1038/s41598-021-84572-4](https://doi.org/10.1038/s41598-021-84572-4)
+ 
+* Comber, S., Arribas-Bel, D., Singleton, A., & Dolega, L. (2020). Using convolutional autoencoders to extract visual features of leisure and retail environments. Landscape and Urban Planning, 202, 103887. [https://doi.org/10.1016/j.landurbplan.2020.103887](https://doi.org/10.1016/j.landurbplan.2020.103887)
+ 
+* Singleton, A., Alexiou, A., & Savani, R. (2020). Mapping the geodemographics of digital inequality in Great Britain: An integration of machine learning into small area estimation. Computers, Environment and Urban Systems, 82, 101486. [https://doi.org/10.1016/j.compenvurbsys.2020.101486](https://doi.org/10.1016/j.compenvurbsys.2020.101486)
+
+
+If you are a student with an interesting idea, then please drop me an email to discuss: [alex.singleton@liverpool.ac.uk](mailto:alex.singleton@liverpool.ac.uk).
 
 **Application deadline: 1st June 2023**
 
 --------------------------------------------------------------------------------
 
-
-
-
-
+## Partner Projects: ## 
 
 ### Understanding the Digital Lives of Young People
 
