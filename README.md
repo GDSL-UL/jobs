@@ -6,25 +6,6 @@
 
 --------------------------------------------------------------------------------
 
-### Educational Pathways and the Cost-of-Living Crisis in the Liverpool City Region (LCR)
-**Supervisors: Alex Singleton, Catherine Durose**
-
-This is an [ADR UK](https://www.adruk.org/news-publications/news-blogs/adr-uk-grants-20-phd-studentship-opportunities-focused-on-quantitative-research-using-linked-administrative-data/) linked PhD within the North West Social Science DTP that sets out to develop new understanding of Liverpool City Region education pathways, labour market outcomes, income and earnings; helping to inform future commissioning and policy decisions. LCR trends towards a low pay and low skill economy, and  businesses in LCR are not as productive as they could be, with GVA per resident lower than elsewhere, and the consequent detrimental impact on income and earnings. 
-The project will utilise the Longitudinal Education Outcomes (LEO) and the Wage and Employment Dynamics Phase 1 (WEDP1) data to respond to the following questions:
-
-* Is there a link between LCR skills training and an increase in their wages?
-* When residents improve their income and earnings, how much of this is them securing more money in their existing role as opposed to securing more hours?
-* How many residents have multiple job roles and what are the typical income levels associated with each job?
-* How geographically heterogeneous are residents having multiple jobs and being below median income?
-* Are there differences in income increase for residents following different types of skills provision?
-
-**Application deadline: 23rd May 2023**
-
-How to apply: Please send a letter of application and CV to [alex.singleton@liverpool.ac.uk](mailto:alex.singleton@liverpool.ac.uk); adding "ADRUK PhD" to the subject line of your email. Your letter of support should be no more than 1 page of A4 and detail: 1) Why are you interested in this project? 2) Why do you want to complete a PhD?, and 3) What makes you a suitable candidate? Please also supply the names of two people who could provide a reference if you are shortlisted.
-
-
---------------------------------------------------------------------------------
-
 ### Understanding the Digital Lives of Young People
 
 **Partners: Nominet**
@@ -82,6 +63,26 @@ Apply Here: [https://datacdt.org/entry-criteria-applying/](https://datacdt.org/e
 Rates of homelessness are acute across Manchester city region, with rates in Manchester being among the highest in England. Such an extreme manifestations of social inequality has been identified as a key area for policy intervention by the Mayor of Greater Manchester: Andy Burnham. In 2018 he setup the Greater Manchester (GM) Mayor’s Charity which funds a range of interventions that aim to reduce homelessness across the city region. The function of any charity requires revenue to be generated that enable support of a programme of activities, services or interventions. For many, a key component of such revenue includes philanthropic giving, both from commercial entities such as businesses or directly from the public. Within the context of Greater Manchester this project will explore how theories of charitable giving and volunteering consumption can be understood within a geodemographic framework to produce new insights into the philanthropic geography of Greater Manchester
 
 Full details: [https://datacdt.org/projects/the-geography-of-charitable-giving-and-volunteering-consumption/](https://datacdt.org/projects/the-geography-of-charitable-giving-and-volunteering-consumption/)
+
+
+--------------------------------------------------------------------------------
+
+### Educational Pathways and the Cost-of-Living Crisis in the Liverpool City Region (LCR)
+**Supervisors: Alex Singleton, Catherine Durose**
+
+This is an [ADR UK](https://www.adruk.org/news-publications/news-blogs/adr-uk-grants-20-phd-studentship-opportunities-focused-on-quantitative-research-using-linked-administrative-data/) linked PhD within the North West Social Science DTP that sets out to develop new understanding of Liverpool City Region education pathways, labour market outcomes, income and earnings; helping to inform future commissioning and policy decisions. LCR trends towards a low pay and low skill economy, and  businesses in LCR are not as productive as they could be, with GVA per resident lower than elsewhere, and the consequent detrimental impact on income and earnings. 
+The project will utilise the Longitudinal Education Outcomes (LEO) and the Wage and Employment Dynamics Phase 1 (WEDP1) data to respond to the following questions:
+
+* Is there a link between LCR skills training and an increase in their wages?
+* When residents improve their income and earnings, how much of this is them securing more money in their existing role as opposed to securing more hours?
+* How many residents have multiple job roles and what are the typical income levels associated with each job?
+* How geographically heterogeneous are residents having multiple jobs and being below median income?
+* Are there differences in income increase for residents following different types of skills provision?
+
+**Application deadline: 23rd May 2023**
+
+How to apply: Please send a letter of application and CV to [alex.singleton@liverpool.ac.uk](mailto:alex.singleton@liverpool.ac.uk); adding "ADRUK PhD" to the subject line of your email. Your letter of support should be no more than 1 page of A4 and detail: 1) Why are you interested in this project? 2) Why do you want to complete a PhD?, and 3) What makes you a suitable candidate? Please also supply the names of two people who could provide a reference if you are shortlisted.
+
 
 **Application deadline: 23rd May 2023**
 
